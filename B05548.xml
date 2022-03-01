@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation, calling out the half foot militia in some shires, the fencible men in others, and the whole horse militia in the northern shires.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05548</idno>
+            <idno type="STC">Wing S1713</idno>
+            <idno type="STC">ESTC R183421</idno>
+            <idno type="EEBO-CITATION">52529265</idno>
+            <idno type="OCLC">ocm 52529265</idno>
+            <idno type="VID">179011</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05548)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179011)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2775:82)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation, calling out the half foot militia in some shires, the fencible men in others, and the whole horse militia in the northern shires.</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland. Sovereign (1694-1702 : William II)</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heirs and successors of Andrew Anderson, Printer to his most excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Dated at end: Given under Our Signet at Edinburgh, the tenth day of December, and of Our Reign the seventh year, 1696.</note>
+                  <note>Signed: Gilb. Eliot, Cls. Sti. Concilii.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>National security --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Militia --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:179011:1" rendition="simple:additions"/>
+            <head>
+               <figure>
+                  <head>W R</head>
+                  <q>HONI SOITQUI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure> 
+               <hi>A PROCLAMATION,</hi> Calling out the half Foot Militia in ſome Shires, the Fenci<g ref="char:EOLhyphen"/>ble Men in others, and the whole Horſe Militia in the Northern Shires.</head>
+            <opener>
+               <signed>
+                  <hi>
+                     <seg rend="decorInit">W</seg>ILLIAM</hi> by the grace of GOD, King of <hi>Great-Britains France</hi> and <hi>Ireland,</hi> defender of the Faith;</signed>
+               <salute>To Our Lyon King at Arms, and his Brethren, Heraulds, Macers of Our Privy-Council, Purſevants, Meſſengers at Arms, Our Sheriffs in that part, conjunctly and ſeverally, ſpecially conſtitute, greeting:</salute>
+            </opener>
+            <p>Forasmuch as the preſent preparations made by the French King, and the implacable malice he hath upon all occaſions expreſt againſt Us, Our people, and the Proteſtant Religion, gives Us juſt ground to apprehend there is an Invaſion intended by bloody Papiſts and diſaffected Subjects from <hi>France</hi> upon this Our antient Kingdom, of purpoſe (if poſſible) to make the ſame the Seat of a bloody War, for defeating and oppoſing whereof, it is neceſſary to put the Kingdom in a ſuitable Poſture of Defence: And We conſidering that by ſundrie Acts of Parliament, there is a regular Militia eſta<g ref="char:EOLhyphen"/>bliſhed within this Kingdom, expreſly to be imployed in oppoſing any For<g ref="char:EOLhyphen"/>raign Invaſion, or ſuppreſſing any inteſtine Trouble or Commotion that may happen within the ſame: Have thought fit at this time to appoint the one half of the Foot Militia to be Liſted, and in readineſs to be called out upon twenty four Hours advertiſement; and in the mean time to be exerciſed with<g ref="char:EOLhyphen"/>in the Shires after ſpecified, &amp; the hail Militia of Horſe appointed by the twen<g ref="char:EOLhyphen"/>ty ſixth Act Parliament one thouſand ſix hundred ſixty three, for the Shires Under-written, to be Rendevouzed upon the days at the places, and un<g ref="char:EOLhyphen"/>der the Command in manner after mentioned: And to the effect, the ſaid half of the Foot Militia, and whole Horſe Militia of the Shires <hi>reſpectivè</hi> after<g ref="char:EOLhyphen"/>named may be the more ſpeedily Liſted, Modelled and Trained in Milita<g ref="char:EOLhyphen"/>ry Diſcipline, whereby they may be in greater readineſs and fitneſs for Our Ser<g ref="char:EOLhyphen"/>vice when they ſhall be called for. We with Advice of the Lords of Our Pri<g ref="char:EOLhyphen"/>vy
+<pb n="2" facs="tcp:179011:2"/>Council, Nominat Appoint; and conſtitute the Commiſsioners of Sup<g ref="char:EOLhyphen"/>plie of the ſaids reſpective Shires, and the Colonels, Lieutenant-Colonels, and Majors of Foot, and the Captains and Lieutenants of Horſe, appointed, or to be appointed to Command the half Foot, or whole Horſe Militia of the ſaids Shires to be Our Commiſsioners, for Liſting and Ordering the ſame, and to that effect, do hereby Require and Authorize the ſaids Commiſsioners of Militia to meet at the Head-Burghs of their reſpective Shires, upon the days following <hi>viz.</hi> the Shires of <hi>Edinburgh, Haddingtoun, Fife</hi> &amp; <hi>Kinroſs,</hi> &amp; the Town of <hi>Edinburgh,</hi> upon the Seventeenth day of <hi>December</hi> current, The Shires of <hi>Ber<g ref="char:EOLhyphen"/>wick, Roxburgh, Selkirk, Peebles, Linlithgow, Stirling,</hi> &amp; <hi>Clackmanan</hi> upon the twenty ſecond day of the ſaid Moneth, &amp; the Shires of <hi>Perth, Drumfries, Dum<g ref="char:EOLhyphen"/>barton</hi> &amp; <hi>Bute</hi> upon the twenty fourth day of the ſamen, &amp; the Commiſsioners for the Stewartrie of <hi>Orkney</hi> &amp; <hi>Zetland</hi> upon the ſixteenth day of <hi>February</hi> next to come, one thouſand ſix hundred ninety ſeven years; &amp; there to proceed, nomin<g ref="char:EOLhyphen"/>at and appoint perſons well affected to Our Government, for Captains and Lieutenants of Foot, &amp; an Enſign to the Colonels Company, &amp; Lieutenants &amp; Coronets of Horſe, &amp; to cauſe intimation preſently to be given to them; of the Service and Command they are choſen, to which Officers of Horſe and Foot <hi>reſpectivé,</hi> We hereby Require and Command to accept and attend their Charges, under the Pains following, <hi>viz.</hi> each Captain of Foot, or Lieute<g ref="char:EOLhyphen"/>nant of Horſe one thouſand <hi>Merks,</hi> a Lieutenant of Enſign of Foot, or Coro<g ref="char:EOLhyphen"/>net of Horſe five hundred <hi>Merks,</hi> conform to the firſt Act of Parliament one thouſand ſix hundred ſeventy two; And that the ſaids reſpective Officers take the Oath of Allegiance, and Subſcribe the Aſſurance to Us, in preſence of the Commanding Officer, the firſt day the Regiment ſhal Rendevouz toge<g ref="char:EOLhyphen"/>ther, under the pains contained in the Acts of Parliament made thereanent: With power likeways to the ſaids Commiſſioners, to Liſt the half of the ſaid Foot Militia, by filty in each Company, and eight Companies in every Regiment, to be Outreiked by the Diviſions following, and Commanded by the Colonels, Lieutenant-Colonel, and Majors after-named, <hi>viz.</hi> The one half of the Foot Militia of the Shire of <hi>Edinburgh,</hi> conſiſting of four hundred Men, and eight Companies to be in one Regiment, Commanded by the Earl of <hi>Lauderdale</hi> as Colonel, and Sir <hi>John Clerk</hi> of <hi>Penniecook</hi> as Lieutenant-Colonel, and Captain <hi>William Ogilvie</hi> in Colonel <hi>Robert Mackay</hi>'s Regiment in <hi>Flanders</hi> as Major, the one Regiment of four hundred Men, as the half of the Foot Militia of the Shire of <hi>Haddingtoun,</hi> to conſiſt of eight Com<g ref="char:EOLhyphen"/>panies, and be under the Command of the Lord <hi>Yester</hi> as Colonel</p>
+            <p>
+               <hi>Nisbit</hi> of <hi>Dirletoun</hi> Lieutenant Colonel, and Captain <hi>William Bailie</hi> of <hi>Hardingtoun</hi> as Major, the one Regiment of four hundred Men conſiſting of eight Companies, as the half of the Foot Militia, for the Shyre of <hi>Berwick,</hi> to be Commanded by the Lord <hi>Polwarth,</hi> Our Chan<g ref="char:EOLhyphen"/>cellor, as Colonel, Captain <hi>John Home</hi> of <hi>Manderſtoun,</hi> as Lievetnant colo<g ref="char:EOLhyphen"/>nel, and Captain <hi>George Home</hi> of St. <hi>Leonards</hi> as Major: The one Regiment of four hundred Men, as the half of the Foot Militia, of the Weſtern Divi<g ref="char:EOLhyphen"/>ſion of <hi>Roxburgh-Shyre,</hi> with a part of the half of the Foot Militia of the Shyres of <hi>Selkirk</hi> and <hi>Peebles</hi> to conſiſt of Eight Companies, under the Command of the Earl of <hi>Dalkeith,</hi> as Colonel, Sir <hi>Francis Scot</hi> of <hi>Thirlstone</hi> Lieutenant Colonel, and Captain <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> Irvin in the Royal Regiment as Major: The three hundred nyntie and nyne Men, as the half Foot Militia, of the eaſt<g ref="char:EOLhyphen"/>er Diviſion of <hi>Roxburgh-Shyre,</hi> and the reſt of the half Foot Militia of the
+<pb n="3" facs="tcp:179011:3"/>Shyres of <hi>Selkirk</hi> and <hi>Peebles,</hi> to be in one Regiment, conſiſting of Eight Com<g ref="char:EOLhyphen"/>panies under the Command of the Earl of <hi>Roxburgh,</hi> as Colonel, Captain <hi>William Bennet</hi> of <hi>Grubet</hi> Lievtenant Colonel, and Captain <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Cunnin<g ref="char:EOLhyphen"/>gham,</hi> in the Royal Regiment, as Major: The four hundred nyntie nyne Men of the half Foot Militia, of the Shyres of <hi>Linlithgow, Stirling</hi> and <hi>Clackman<g ref="char:EOLhyphen"/>nan,</hi> to be in one Regiment, conſiſting of ten Companies, under the Com<g ref="char:EOLhyphen"/>mand of the Earl of <hi>Annandale</hi> as Colonel, <hi>Patrick Murray</hi> of <hi>Livingſtoun</hi> as Lievtenant Colonel, and Captain <hi>Walter Sharp,</hi> in Colonel <hi>Robert Mckay</hi> his Regiment, as Major: The four hundred Men, as the half of the Foot Militia of the Town of <hi>Edinburgh, Leith</hi> and <hi>Cannongate</hi> to be in one Regiment, conſiſting of Eight Companies, under the Command of the Lord Provoſt of <hi>Edinburgh</hi> for the time, as Colonel, Major <hi>George Monro</hi> as Lievtenant Col<g ref="char:EOLhyphen"/>onel, and Captain <hi>Samuel Fullarton</hi> as Major: The four hundred Men, as the one half of the half Foot Militia of <hi>Fyfe,</hi> and <hi>Kinroſs</hi> to be in one Regiment, conſiſting of Eight Companies, under the Command of the Lord <hi>Leſlie,</hi> as Colonel, <hi>Alexander Dowglas</hi> of <hi>Strathendrie,</hi> as Lievtenant Colonel, and Lieu<g ref="char:EOLhyphen"/>tenant <hi>Robert Young</hi> in Brigadeer <hi>Maitlands</hi> Regiment as Major of the weſtern Regiment of the ſaid Shyre: The other four hundred Men of the ſaid half foot Militia of <hi>Fyfe</hi> and <hi>Kinroſs</hi> to be in one Regiment; conſiſting of Eight Com<g ref="char:EOLhyphen"/>panies, under the Command of the Lord <hi>Elcho,</hi> as Colonel, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Balfour</hi> of <hi>Dunbug,</hi> as Lieutenant Colonel, and <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Arnot</hi> of <hi>Auchinmoor</hi> as Ma<g ref="char:EOLhyphen"/>jor of the eaſtern Regiment of the ſaid Shyre: The four hundred Men as the eaſtern Regiment of the half Foot Militia of <hi>Perth</hi> Shyre, conſiſting of Eight Companies, under the Command of the Earl of <hi>Tallibairdin,</hi> Our Secretary of State, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Colonel, <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Thomas Hay</hi> of <hi>Balhouſie</hi> as Lieutenant Colonel, and Captain <hi>Walter Murray</hi> in Colonel <hi>Lauders</hi> Regiment, as Major: And the four hundred Men, as the weſtern Regiment of the ſaid half Foot Militia of <hi>Perth-Shyre,</hi> conſiſting of Eight Companies, to be Commanded by the Lord <hi>Ruth<g ref="char:EOLhyphen"/>ven,</hi> as Colonel, <hi>Adam Drummond</hi> of <hi>Megginſh</hi> as Leiutenenant Colonel, and Captain <hi>John Campbel</hi> as Major. The four hundred Men, as the half Foot Militia of <hi>Drumfries</hi> Shyre to be one Regiment, conſiſting of Eight Com<g ref="char:EOLhyphen"/>panies, under the Command of the Duke of <hi>Queensberry,</hi> as Colonel, the Earl of <hi>Carnwath</hi> as Lieutenant Colonel, and Captain <hi>William Maxwell</hi> in Bri<g ref="char:EOLhyphen"/>gadeer <hi>Maitlands</hi> Regiment, as Major: The three hundred and thirtie three Foot, as the half Foot Militia of the Stewartry of <hi>Orkney</hi> to be in one Regi<g ref="char:EOLhyphen"/>ment, in fix Companies, under the Command of Mr. <hi>Robert Dowglas<g ref="char:punc">▪</g>
+               </hi> Brother to the Earl of <hi>Morton,</hi> as Colonel, Sir <hi>William Gragie</hi> of <hi>Gairſie</hi> Lieutenant Colonel, and Captain <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Moodie</hi> of <hi>Melſtar</hi> as Major: The half Foot Militia of the Shyres of <hi>Bute</hi> and <hi>Dumbartoun,</hi> to be divided in three Com<g ref="char:EOLhyphen"/>panies, the firſt to be Commanded by <hi>Archibald Mccaulay</hi> of <hi>Arnacaple,</hi> and the ſecond by <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Bannantyne</hi> of <hi>Kames,</hi> and the third by <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> 
+               <hi>Buntin</hi> younger of <hi>Airdoch,</hi> as Captains. And We with Advice foreſaid, re<g ref="char:EOLhyphen"/>quire and Command the ſaids Commiſſioners of Militia, for the reſpective Shyres and Stewartries above named, with their utmoſt diligence, to proceed and Liſt the ſaid reſpective half Foot Militia, and how ſoon, or whenſoever they have Liſted the ſaids reſpective Companies, under the Command of the Captains, and other Inferior Officers to be named by them (except the Captains for <hi>Bute</hi> and <hi>Dumbartoun</hi>) comform to the Methods and Rules formerly obſerved in the out-rick of the Militia, and allowed by the Acts of Parliament made thereanent, That imediately they deſign and appoint particular places, and dayes of Ran<g ref="char:EOLhyphen"/>devouz
+<pb n="4" facs="tcp:179011:4"/>for each Company to meet, and be exerciſed upon, at leaſt for one day every week, untill further Orders be direct to them thereanent. The firſt of which dayes for each Company to meet, and Rendevouz upon, within the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aroch, or Bounds out of which it is raiſed, is hereby appointed to be with<g ref="char:EOLhyphen"/>in Eight dayes after the Captains and Lieutenants ſhall be named, and the Liſt of the Bounds for their reſpective Companies given to them, by the ſaids Com<g ref="char:EOLhyphen"/>miſſioners. And We with Advice foreſaid, appoints the ſeveral Heretors to pay to each Foot Militia Man of the ſaids reſpective Companies, ſix ſhillings <hi>Scots per diem,</hi> for each day they ſhall be Exerciſed, and Randevouzed, during the ſpace foreſaid, reſerving to them their Relieff thereof, from the Men Te<g ref="char:EOLhyphen"/>nents, and Servants, for whom the ſaid Foot Men are to be put out, and who are not liſted in the Militia, requiring hereby, the Officers and Souldiers punctually to attend the Particular dayes of Randevouz, with their beſt Arms, under the pains contained in the firſt Act of Parliament, 1672. being now double in the time of War: And for the better encouragement of ſuch who ſhal be Liſted for Our Service, in the ſaid Militia. We do hereby Declare, that all ſuch pe<g ref="char:EOLhyphen"/>ſons who ſhal be introlled and admitted in this Truſt and Service of the Militia, ſhal be intirely reſerved for that Imployment, and during their Service in it, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>al be freed and exeemed from all other Levies, and ſhal have the benefit of and be ſubject to the whole other Advantages and Orders ſet down and provid<g ref="char:EOLhyphen"/>ed to the Militia by the firſt Act of Parliament 1672 and other Acts made thereanent; Certifying withal, every Heretor lyable in Outreik of any Foot-man, who shal fail in the punctual and timely putting out of ſufficient Men with their beſt Arms, and every Footman Liſted in the ſaid Service of the Militia, who ſhal be abſent from any day of Rendevouz shal be Fined in, &amp; bel yable to the Penalties thereanent provided by the firſt Act of Parliament 1672. And We with Advice foreſaid, Require and Command the Majors of the ſeveral Regiments <hi>reſpectivé</hi> above named, to be preſent with one or other of the Companies of the ſaids Regiments every Rendevouz day, and to Train and Exerciſe the ſame in Military Diſcipline. And for his encourage<g ref="char:EOLhyphen"/>ment in the ſaid Service: We have appointed thirteen <hi>ſhillings ſterling per diem</hi> to be payed to each Major for their Pains and Service for each day they ſhal be preſent with, and attend the Exerciſing and Training of any of the Compa<g ref="char:EOLhyphen"/>nies of the ſaids reſpective Regiments, with four <hi>ſhillings ſterling per diem</hi> to the Lieutenants of each Company, and three <hi>ſhillings ſterling</hi> money foreſaid to the Enſign of the Colonel's Company <hi>per diem,</hi> and ſix <hi>pence</hi> money fore<g ref="char:EOLhyphen"/>ſaid for each Drummer and Serjeant, beſides the like Sum payable to them by their Outputters, for each day the ſaids Companies shal be brought together for Exerciſe and Diſcipline: Which Sums <hi>reſpectivè</hi> forſaids, We with Advice and Conſent foreſaid Require and Command the Collectors of Our Sup<g ref="char:EOLhyphen"/>ply in the ſeveral Shires upon an Atteſtation from the ſaids Commiſſioners of the ſeveral Shires, under the hands at leaſt of three thereof, with their Clerk who is to record the ſame in the Commiſſioners Books, bearing the Number of the Days Pay, due to the ſaids Officers, Serjeants and Drummers upon an Receipt of the ſame by them reſpective to the Collector, upon Payment punctually to pay, which Atteſtation and Receipt. We hereby Require &amp; Com<g ref="char:EOLhyphen"/>mand Our General Receivers to Accept of, &amp; receive from the ſeveral Collectors as good Payment of ſo much of the Supply of the ſaid Shire, &amp; ſufficient Exoneration to them <hi>pro tanto,</hi> as they will be anſwerable for the ſame upon their higheſt Peril And Appoints the ſame to be Allowed by the Lords of Our Treſaury to the
+<pb n="5" facs="tcp:179011:5"/>ſaids General Receivers. And for the more effectual defeating and oppoſing of the ſaid Invaſion: We with Advice foreſaid Require and Command the haill Fencible Men within the Shire of <hi>Wigtoun</hi> and Stewartry of <hi>Kirkcudoright,</hi> and within the Sheriffdoms of <hi>Air, Argile, Lanerk</hi> and <hi>Renfrew,</hi> to Meet and Conveen upon the Seventh Day of <hi>Jannuary</hi> next, and Rendezvouz with their beſt Arms within their ſeveral Paroches under the Command of the Officers formerly nominated and appointed, or who ſhall be nominated or appointed for that effect, and there to exerciſe themſelves. and be in readineſs to march with neceſſar Proviſions as they ſhall be required by further Orders from Us or Our Privy Council; And for the better Reinforcing Our Standing Troops to make a vigorous Oppoſition to any ſuch Invaſion, and timely to ſuppreſs any Inteſtine Trouble that may happen thereupon, We with Advice foreſaid, Require and Command the ſeveral Heretors within the Shires after-mentio<g ref="char:EOLhyphen"/>ned to Provide their reſpective Numbers of Militia of Horſe, according as the ſamen ſhall be appointed to be furniſhed by the ſeveral Leaders, to be na<g ref="char:EOLhyphen"/>med by the ſaids Commiſſioners of Militia, Authorized in manner above-menti<g ref="char:EOLhyphen"/>oned, and to have the ſamen in readineſs, with a ſufficient Rider and Arms, to Meetand Rendezvouz at the Places, upon the Days, and under the Com<g ref="char:EOLhyphen"/>mand of the Perſons reſpective after-mentioned, <hi>viz,</hi> the Shire of <hi>Forfar</hi> One hundred and three Horſe, at the Rate of Ten Pound <hi>Sterling</hi> each Horſe, be<g ref="char:EOLhyphen"/>ſides ſufficient Furniture and Arms, conform to the firſt Act of Parliament One thouſand ſix hundred and ſeventy two, to meet at <hi>Forfar</hi> the Seventh Day of <hi>January</hi> One thouſand ſix hundred and ninty ſeven Years, under the Command of the Earl of <hi>Strathmore</hi> as Captain thereof, the Shire of <hi>Kincar<g ref="char:EOLhyphen"/>din</hi> and <hi>Mareſchals</hi> Part of <hi>Aberdeen</hi> Seventy four Horſe, at the Rate fore<g ref="char:EOLhyphen"/>ſaid to veet at <hi>Aberdeen</hi> the ſaid Seventh Day of <hi>Jannuary,</hi> under the Com<g ref="char:EOLhyphen"/>mand of the Earl of <hi>Kintore</hi> as Captain thereto, and the reſt of <hi>Aberdeen</hi> and <hi>Bamf</hi> Shire, One hundred and ſeventy ſix Horſe at the Rate foreſaid to Meet where the Captains and Commiſſioners foreſaids ſhall Appoint the ſaid Day under the Command of the Earl of <hi>Errol</hi> and Lord <hi>Saltoun</hi> as Captains thereto, the Shires of <hi>Bigine, Nairn</hi> and this ſide of <hi>Neſs</hi> Eighty eight Horſe of the Pride foreſaid, to Meet the ſaid Day where the Commiſſioners and Captains ſhall Appoint, under the Command of the Laird of <hi>Grant</hi> as Captain thereto, the Earl of <hi>Seaforth</hi> and the Lord <hi>Lo<g ref="char:EOLhyphen"/>vat</hi> their Diviſion of <hi>Inverneſs</hi> Eighty eight Horſe to meet as the ſaids Commis<g ref="char:EOLhyphen"/>ſioners and Captains ſhall appoint under the Command of the Laird of <hi>Bal<g ref="char:EOLhyphen"/>nagouan</hi> as Captain thereto, the Shires of <hi>Sutherland</hi> and <hi>Caithneſs</hi> Eighty eight Horſe at the rate foreſaid, to meet where the Commiſſioners and Captains ſhall appoint day foreſaid under the Command of the Lord <hi>Rae</hi> as Captain thereto, all of them with ten days Proviſion at eighteen Shilling <hi>per diem</hi> to be Rendevouzed upon, the days above-mentioned, and to be dayly exerciſed du<g ref="char:EOLhyphen"/>ring the ſaid ſpace; and thereafter to be duly and regularly quartered, du<g ref="char:EOLhyphen"/>ring the ſpace they ſhall be kept together in the next adjacent Towns and Vil<g ref="char:EOLhyphen"/>lages upon payment of ready Mony for their Quarters until they ſhall receive further Orders thereanent: And we with Advice foreſaid Require and Command the Commiſſioners of Militia for the foreſaids ſeveral Shires laſt above<g ref="char:EOLhyphen"/>named upon this ſide of <hi>Spey</hi> to meet and conveen upon the ſaid Twentieth fourth day of this preſent Month of <hi>December,</hi> and theſe upon the other ſide thereof upon the Twentieth ninth day of the ſamen Month; and with Advice of the ſaids reſpective Captains to make choiſe of fit and ſufficient perſons qualified according to Law to be Lieutennants and Corronets for the
+<pb n="6" facs="tcp:179011:6"/>ſaids reſpective Troops of Horſe, and to intimat the ſame to the ſaids Offi<g ref="char:EOLhyphen"/>cers, and require them to attend their Duty and Commands under the Pains above-expreſt; Declaring hereby that all ſuch perſons who ſhall be Liſted for the ſaid Horſe Militia ſhall be freed &amp; exeemed from all other Levies whatſom<g ref="char:EOLhyphen"/>ever during their Service in the ſaid Militia: And We with Advice foreſaid Re<g ref="char:EOLhyphen"/>quire and Command the ſaids Commiſſioners of Militia to cauſe the ſeveral Fractions for each Militia Horſe, and Ordain the ſame within what ſhort ſpace they think meet, to be dulie paid into the reſpective Leaders thereof, and in caſe of Failzie to exact the Pains, and uſe the Execution for the ſame mentioned in the Act of Parliament one thouſand ſix hundred and ſixty nine and that they take care that good and ſufficient Horſes Arms and Furniture be provided, able and fit for the Service, conform to the Acts of Parliament and former Practiſe in the like caſes: and further We with Advice foreſaid Require and Command the Commiſſioners of Militia for the ſaids reſpective Shires to cauſe provide at the Charge and Expenſes of the ſaids Shires a Drum for each Companie of the ſaid Foot Militia and one pair of Collours for the Collo<g ref="char:EOLhyphen"/>nels Company, and a Standart, and Trumpet for each of the ſaids Troops of Horſe and to cauſe the ſaid Charge and Expenſe thereof to be laid on the reſpec<g ref="char:EOLhyphen"/>tive Shires, and raiſed in that ſame manner as the Supplies impoſed by Act of Parliament for Our Service, are conform to the ſecond Act Parliament One thouſand ſix hundred and ſixty nine, or to call for the Drums, Colours, Standarts and Trumpets heretofore provided for that uſe, at the Charge of the ſeveral Shires, and to Conveen the Havers thereof before them, and to compel them to deliver up the ſame by Impriſonment or what other Exe<g ref="char:EOLhyphen"/>cution they think fit<g ref="char:punc">▪</g> 
+               <hi>Our Will is Herefore,</hi> and We Charge you ſtrictly and Command, that incontinent theſe Our Letters ſeen ye paſs to the Mer<g ref="char:EOLhyphen"/>cat-Croſs of <hi>Edinburgh,</hi> and to the remanent Mercat-Croſſes of the Head-Burgns of the ſeveral Shires and Stewartries within this Kingdom; and there in Our Name and Authority by open Proclamation make Intination hereof that none pretend Ignorance, and Appoints Our Solicitor to Tranſmit Printed Copies hereof to the Sheriffs and Stewart Clerks of the haill Sheriff<g ref="char:EOLhyphen"/>doms and Stewartries within this Kingdom, with Copies to be Tranſmitted by the ſaid Sheriff and Stewart-Clerks to the Miniſters of the ſeveral Paroches within their Bounds, and Ordains the ſaid Sheriff and Stewart-Clerks to cauſe Publiſh this Proclamation at the Mercat-Croſſes, upon the firſt Mercat-day after it ſhall come to their Hands; and Appoints this Proclamation to be intimat in the ſaid Paroch-Churches upon the Forenoon after Sermon, the firſt Lords Day, immediatly after the ſame ſhall come to their hands: And Ordains theſe Preſents to be Printed.</p>
+            <closer>
+               <dateline>Given under Our Signet at <hi>Edinburgh,</hi> 
+                  <date>
+                     <hi>the Tenth day of</hi> December, <hi>and of Our Reign the Eight Year,</hi> 1696.</date>
+               </dateline>
+               <signed>
+                  <hi>Per Actum Dominorum Seereti Concilii.</hi> GILB. ELIOT, <hi>Cls. Sti. Concilii,</hi>
+               </signed>
+            </closer>
+            <closer>GOD ſave the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heirs and Succeſſors of <hi>Andrew Anderſon,</hi> Printer to His Moſt Excellent Majeſty, 1696.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
